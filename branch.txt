@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+You use git branch when we want to develop a sub verison of a current one having possibility of going back or merging in the future.
